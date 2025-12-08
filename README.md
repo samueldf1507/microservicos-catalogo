@@ -22,7 +22,7 @@ Este é o serviço responsável pelo gerenciamento dos cursos na arquitetura de 
 ## 🔗 Links do Projeto
 
 * **Deploy (Produção):** [https://microservicos-catalogo-samuel.onrender.com](https://microservicos-catalogo-samuel.onrender.com)
-* **Repositório de Matrículas:** [Link para o outro GitHub aqui]
+* **Repositório de Matrículas:** [https://github.com/samueldf1507/microservicos-matricula]
 
 ## Instale as dependências
 npm install
